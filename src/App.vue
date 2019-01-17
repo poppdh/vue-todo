@@ -36,5 +36,5 @@ button{
 .shadow{
   box-shadow: 5px 10px 10px rgba(0,0,0,0.03)
 }
-.asdf{font-size: 0;}
+.asdf{font-size: 0;color: #ffffff;}
 </style>
