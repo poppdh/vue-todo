@@ -34,6 +34,7 @@ button{
   border-style: groove;
 }
 .shadow{
-  box-shadow: 5px 10px 10px rgba(0,0,0,0.03)
+  box-shadow: 5px 10px 10px rgba(0,0,0,0.03);
 }
+.asdf{color: #ffffff;}
 </style>
